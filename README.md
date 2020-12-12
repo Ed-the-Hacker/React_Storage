@@ -7,5 +7,5 @@ Geolocation: https://github.com/react-native-community/react-native-geolocation
 Polyline: https://www.npmjs.com/package/@mapbox/polyline
 
 
- La aplicación otiginal es del repositorio:
- https://github.com/KevinSoto1/React-Maps-App
+ La aplicación original es del repositorio de Daniel Díaz:
+https://github.com/danielTeniente/react-native-localization 
